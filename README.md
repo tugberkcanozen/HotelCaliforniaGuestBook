@@ -10,11 +10,12 @@ An example of an application where guests arriving at a local hotel can enter in
 + Date Formatter ✅
 
 ## Demo
-![iphone][Simulator Screen Shot - iPhone 11 - 2022-05-30 at 13 03 45](https://user-images.githubusercontent.com/97698649/170969529-015209a9-37a5-4fe8-bfc8-7961effec2f7.png)
 
-![Simulator Screen Shot - iPhone 11 - 2022-05-30 at 13 04 02](https://user-images.githubusercontent.com/97698649/170969593-39574df5-175d-474d-b23d-45dd7c94ef80.png)
+![Screen 1](https://user-images.githubusercontent.com/97698649/170969529-015209a9-37a5-4fe8-bfc8-7961effec2f7.png)
 
-![Simulator Screen Shot - iPhone 11 - 2022-05-30 at 13 04 11](https://user-images.githubusercontent.com/97698649/170969604-e57dda50-706a-401d-82c3-79b6be3e416b.png)
+![Screen 2](https://user-images.githubusercontent.com/97698649/170969593-39574df5-175d-474d-b23d-45dd7c94ef80.png)
+
+![Screen 3](https://user-images.githubusercontent.com/97698649/170969604-e57dda50-706a-401d-82c3-79b6be3e416b.png)
 
 
 ## Additional Information
